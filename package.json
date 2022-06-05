@@ -6,9 +6,7 @@
     "start": "node src/index.js"
   },
   "keywords": [
-    "nodejs",
-    "telegraf",
-    "weather bot",
+    "telegraf weather bot",
     "telegram weather bot"
   ],
   "engines": {
