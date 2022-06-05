@@ -3,7 +3,7 @@
   "description": "Telegram weather bot",
   "scripts": {
     "lint": "eslint .",
-    "start": "nodemon index.js"
+    "start": "node src/index.js"
   },
   "keywords": [
     "nodejs",
@@ -14,7 +14,7 @@
   "engines": {
     "node": "16"
   },
-  "main": "index.js",
+  "main": "src/index.js",
   "dependencies": {
     "axios": "^0.27.2",
     "dotenv": "^16.0.1",
