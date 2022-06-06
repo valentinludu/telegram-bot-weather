@@ -8,7 +8,7 @@ Hosted on Heroku.
 
 Because the bot is hosted on a free plan you first need to access this [link](https://telegram-bot-weather2.herokuapp.com/) to awake the server.
 
-Then check the bot on Telegram: @wwweather_82_bot
+Then check the bot on Telegram: [@wwweather_82_bot](https://t.me/wwweather_82_bot)
 
 Click start to see 4 predefined cities or write a message with your own city to check the temperature.
 
